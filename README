@@ -1,0 +1,7 @@
+Team ID: 001G
+Team Members:   Sohan Chowdary Kollu      skollu@ncsu.edu
+                Yuchuan Liu          yliu63@ncsu.edu
+                Niharika Maheshwari      nnmahesh@ncsu.edu
+
+Instruction to create an executable file: 
+tar -cfm G_del2proj1.jar Manifest.txt *.class
